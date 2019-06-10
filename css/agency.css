@@ -728,21 +728,11 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
-.fa, .fas, .far {
-  color: #fc7000;
+.fa, .fas, .far, .fab {
+  color: #ffffff;
+  margin-top: 15;
 }
 
-.fa-globe-asia {
-  color: #fc7000 !important
-}
-
-.fa-facebook-f {
-  color: #fc7000 !important
-}
-
-.fa-linkedin-in {
-  color: #fc7000 !important
-}
 
 .copyright {
   color: #fc7000 !important
@@ -906,14 +896,14 @@ ul.social-buttons li a {
   font-size: 20px;
   line-height: 50px;
   display: block;
-  width: 70px;
+  width: 50px;
   height: 50px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #fc7000;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
