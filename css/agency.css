@@ -262,6 +262,32 @@ img::-moz-selection {
 
 }
 
+section#team {
+    background-color: #ffb400;
+    background-image: url(../img/fear-bg5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+section#services {
+  background-image: url(../img/hrc-bg2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+section#portfolio {
+    background-color: #212529;
+    background-image: url(../img/cloud-sun-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+section#contact {
+  background-color: #212529;
+  background-image: url("../img/contact-bg2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
 header.masthead {
   text-align: center !important;
   background-color: #ffb400;
@@ -792,26 +818,7 @@ h4 {
 
 
 
-section#services {
-  background-image: url(../img/hrc-bg2.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
 
-section#portfolio {
-    background-color: #212529;
-    background-image: url(../img/cloud-sun-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-
-section#contact {
-  background-color: #212529;
-  background-image: url("../img/contact-bg2.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-}
 
 section#contact .section-heading {
   color: #fff;
