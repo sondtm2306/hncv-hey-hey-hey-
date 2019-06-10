@@ -729,7 +729,11 @@ header.masthead .intro-text .intro-heading {
 }
 
 .fa, .fas, .far, .fab {
-  color: #ffffff;
+  color: #fc7000;
+}
+
+.fa-globe-asia, .fa-facebook-f, .fa-linkedin-in {
+  color: #ffffff !important;
   margin-top: 15;
 }
 
