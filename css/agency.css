@@ -733,7 +733,19 @@ header.masthead .intro-text .intro-heading {
 }
 
 .fa-globe-asia {
-  color: white !important
+  color: #fc7000 !important
+}
+
+.fa-facebook-f {
+  color: #fc7000 !important
+}
+
+.fa-linkedin-in {
+  color: #fc7000 !important
+}
+
+.copyright {
+  color: #fc7000 !important
 }
 
 
@@ -887,14 +899,14 @@ section#clients {
 }
 
 ul.social-buttons {
-  margin-bottom: 0;
+  margin-bottom: 8px;
 }
 
 ul.social-buttons li a {
   font-size: 20px;
   line-height: 50px;
   display: block;
-  width: 50px;
+  width: 70px;
   height: 50px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
